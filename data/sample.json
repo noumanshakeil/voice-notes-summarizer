@@ -1,0 +1,11 @@
+{
+  "project": "voice-notes-summarizer",
+  "resource": "recordings",
+  "samples": [
+    {
+      "id": "vn1",
+      "title": "Idea dump",
+      "duration_s": 90
+    }
+  ]
+}
